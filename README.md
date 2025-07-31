@@ -25,3 +25,7 @@
 #### About Me
 ---
 I am passionate about deep learning and natural language processing. Currently, I am researching a generative AI model that predicts RNA, DNA, and protein structures from cryo-EM maps with over 95% improved accuracy compared to legacy tools. I have built a fully automated self-training pipeline that simulates synthetic datasets and retrains across parameter variations, reducing model loss by 50%. I also have experience building agentic SaaS platforms and visually engaging web games. Beyond software, I am contributing to the development of a self-driving Mars rover. I am honored to be a NASA scholarship recipient for academic excellence in STEM. My interests in AI research, software development, and robotics.
+
+![roshia3's Stats](https://github-readme-stats.vercel.app/api?username=roshia3&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![roshia3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshia3&theme=tokyonight&hide_border=true) <br/>
+
